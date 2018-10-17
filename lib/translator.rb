@@ -5,9 +5,7 @@ def load_library(path)
   
   {
     "get_emoticon":"",
-    "get_meaning":"",
-    get_emoticon: "",
-    get_meaning: ""
+    "get_meaning":""
   }
 end
 
